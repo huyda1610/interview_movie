@@ -4,7 +4,7 @@
 
 Time spent: **15** hours spent in total
 
-## User Stories ([x]: Implemented, []: Not Implement)
+## User Stories
 The following **required** functionality is completed:
 
 - [x] User can view a list of movies currently playing in theaters. Poster images load asynchronously.
